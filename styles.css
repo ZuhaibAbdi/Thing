@@ -102,3 +102,17 @@ img {
     text-align: center;
     margin: 20px;
 }
+
+[type="submit"] {
+    margin-bottom: 10px;
+    width: 70px;
+    height: 30px;
+    border: none;
+    background-color: #fff;
+    transition: ease-in-out;
+}
+
+[type="submit"]:hover {
+    border: 2px solid red;
+    background-color: greenyellow;
+}
