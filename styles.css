@@ -1,4 +1,6 @@
-
+.hi{
+    color:white;
+}
 * {
     box-sizing: border-box;
 }
@@ -26,12 +28,13 @@ body {
 }
 
 #navbar a {
-    color: black;
+    color: rgb(65, 11, 165);
     text-decoration: none;
     display: block;
     padding: 10px;
     padding-right: 30px;
     margin-top: 10px;
+    font-size:1.3rem;
 }
 
 #navbar a:hover {
