@@ -89,3 +89,14 @@ img {
 .Quick-Buy1 {
     text-align: center;
 }
+
+.form {
+    background-color: #eee;
+}
+
+#form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
