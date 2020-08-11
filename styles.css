@@ -1,8 +1,12 @@
-.hi{
-    color:white;
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+.hi {
+    color: white;
 }
+
 * {
     box-sizing: border-box;
+    font-family: Raleway, sans-serif;
 }
 
 body {
@@ -34,7 +38,7 @@ body {
     padding: 10px;
     padding-right: 30px;
     margin-top: 10px;
-    font-size:1.3rem;
+    font-size: 1.3rem;
 }
 
 #navbar a:hover {
@@ -75,4 +79,9 @@ footer {
 
 h2 {
     text-align: center;
+}
+
+img {
+    border: 1px solid white;
+    border-radius: 4px;
 }
