@@ -161,3 +161,7 @@ img {
         left: 150px;
     }
   }
+
+.products1 {
+    display: flex;
+}
