@@ -152,3 +152,12 @@ img {
 .footer {
     background-color: darkgray;
 }
+
+@media only screen and (max-width: 800px) {
+    .aboutus {
+        text-align: center;
+        width: 500px;
+        position: relative;
+        left: 150px;
+    }
+  }
