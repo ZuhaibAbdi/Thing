@@ -136,3 +136,11 @@ img {
     height: 250px;
     width: 250px;
 }
+
+
+.aboutus {
+    text-align: center;
+    width: 500px;
+    position: relative;
+    left: 450px;
+}
