@@ -148,3 +148,7 @@ img {
 .form-group {
     margin-bottom: 20px;
 }
+
+.footer {
+    background-color: darkgray;
+}
