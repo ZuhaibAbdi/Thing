@@ -144,3 +144,7 @@ img {
     position: relative;
     left: 450px;
 }
+
+.form-group {
+    margin-bottom: 20px;
+}
