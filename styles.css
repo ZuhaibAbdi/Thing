@@ -116,3 +116,8 @@ img {
     border: 2px solid red;
     background-color: greenyellow;
 }
+
+.swiper-container {
+    width: 600px;
+    height: 300px;
+}
